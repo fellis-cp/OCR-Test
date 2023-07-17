@@ -1,0 +1,14 @@
+[
+    {
+        "imagePath": "C:\\Users\\Admin\\Desktop\\Japanese-OCR-Toolkit-V1.3\\backendServer\\Program-Backend\\Manga-Rikai-OCR\\testImages\\3.png",
+        "coordinate": {
+            "x1": 1051,
+            "y1": 158,
+            "width": 110,
+            "height": 308,
+            "x2": 1161,
+            "y2": 466
+        }
+    },
+   
+]

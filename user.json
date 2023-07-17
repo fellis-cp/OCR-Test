@@ -1,0 +1,15 @@
+[
+    {
+        "imagePath": "C:\\Users\\Admin\\Desktop\\test\\backendServer\\Program-Backend\test-OCR\\testImages\\3.png",
+        "coordinate": {
+            "x1": 1051,
+            "y1": 158,
+            "width": 110,
+            "height": 308,
+            "x2": 1161,
+            "y2": 466
+        },
+        "textContent": "エヴァに乗れる様にＡＴをなるべく高くする様はしてくれる？",
+        "translationText": "can you make it as high as possible so i can ride on eva?"
+    },
+]

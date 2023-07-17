@@ -1,0 +1,4 @@
+{
+    "OCR-language": {"Name": "Japanese-Vertical", "Bing-Translation-Code": "ja", "Tesseract-Code":"jpn_vert", "Tesseract-Text-Orientation":"5", "Include-Space":false},
+    "Translation-Language": {"Name": "English", "Bing-Translation-Code": "en"}
+}
